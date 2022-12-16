@@ -1,2 +1,2 @@
 # Python-Learning
-This is repo for tracking my Python learning which is outside of my academic course.
+This is repository for tracking my Python learning which is outside of my academic course.
